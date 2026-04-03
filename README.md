@@ -1,5 +1,3 @@
-# lotlinx-sold-inventory-gold-model
-
 # Lotlinx Sold Inventory Pricing Performance Gold Model
 
 This repository contains my solution for the Lotlinx take-home assignment.
