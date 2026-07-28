@@ -1,6 +1,6 @@
 # Lotlinx Sold Inventory Pricing Performance Gold Model
 
-This repository contains my solution for the Lotlinx take-home assignment.
+This repository contains my solution for the Lotlinx data.
 
 The goal of this project is to design a production-ready gold-layer data model in BigQuery to support a Sold Inventory Pricing Performance Dashboard. The model allows a dealership manager to evaluate whether each sold vehicle was priced above or below the national market average at the time of sale, and how the original listing price compared to that benchmark.
 
